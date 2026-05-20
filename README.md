@@ -1,6 +1,6 @@
 #Projeto calculo de media e cadastro de alunos.#
 
-##Grupo : Vitor de Lima Pascoal , Gustavo Monteiro Paiva , Thales Belle,
+##Grupo : Vitor de Lima Pascoal , Gustavo Monteiro Paiva , Thales Belle, Heitor.
 
 #Descrição : Codigo simples com enfase em aprender e usar o terminal e comandos Git.
 
